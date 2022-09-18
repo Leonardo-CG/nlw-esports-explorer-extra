@@ -98,18 +98,11 @@ section ul li:hover{
     transform: scale(1.1);
 }
 
-.movies-list img{
+.card-list img{
     width: 100px;
     border-radius: 8px;
     border: 1px solid #555555;
 }
-
-.series-list img{
-    width: 100px;
-    border-radius: 8px;
-    border: 1px solid #555555;
-}
-
 
 /* Animation */
 
